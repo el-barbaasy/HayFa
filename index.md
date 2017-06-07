@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HayFa Game
 
 You can use the [editor on GitHub](https://github.com/el-barbaasy/hayfa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
